@@ -1,0 +1,11 @@
+/mnt/106A40786B0699B9/Programs/VSCodeProjects/P2/prova_02/bin/Debug/netcoreapp2.0/prova_02.deps.json
+/mnt/106A40786B0699B9/Programs/VSCodeProjects/P2/prova_02/bin/Debug/netcoreapp2.0/prova_02.runtimeconfig.json
+/mnt/106A40786B0699B9/Programs/VSCodeProjects/P2/prova_02/bin/Debug/netcoreapp2.0/prova_02.runtimeconfig.dev.json
+/mnt/106A40786B0699B9/Programs/VSCodeProjects/P2/prova_02/bin/Debug/netcoreapp2.0/prova_02.dll
+/mnt/106A40786B0699B9/Programs/VSCodeProjects/P2/prova_02/bin/Debug/netcoreapp2.0/prova_02.pdb
+/mnt/106A40786B0699B9/Programs/VSCodeProjects/P2/prova_02/obj/Debug/netcoreapp2.0/prova_02.csprojResolveAssemblyReference.cache
+/mnt/106A40786B0699B9/Programs/VSCodeProjects/P2/prova_02/obj/Debug/netcoreapp2.0/prova_02.csproj.CoreCompileInputs.cache
+/mnt/106A40786B0699B9/Programs/VSCodeProjects/P2/prova_02/obj/Debug/netcoreapp2.0/prova_02.AssemblyInfoInputs.cache
+/mnt/106A40786B0699B9/Programs/VSCodeProjects/P2/prova_02/obj/Debug/netcoreapp2.0/prova_02.AssemblyInfo.cs
+/mnt/106A40786B0699B9/Programs/VSCodeProjects/P2/prova_02/obj/Debug/netcoreapp2.0/prova_02.dll
+/mnt/106A40786B0699B9/Programs/VSCodeProjects/P2/prova_02/obj/Debug/netcoreapp2.0/prova_02.pdb
